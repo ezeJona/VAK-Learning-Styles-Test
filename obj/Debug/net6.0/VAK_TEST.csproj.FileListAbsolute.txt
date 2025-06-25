@@ -1,0 +1,29 @@
+C:\Users\PC NOHAMY\Desktop\VAK_TEST\bin\Debug\net6.0\VAK_TEST.exe
+C:\Users\PC NOHAMY\Desktop\VAK_TEST\bin\Debug\net6.0\VAK_TEST.deps.json
+C:\Users\PC NOHAMY\Desktop\VAK_TEST\bin\Debug\net6.0\VAK_TEST.runtimeconfig.json
+C:\Users\PC NOHAMY\Desktop\VAK_TEST\bin\Debug\net6.0\VAK_TEST.dll
+C:\Users\PC NOHAMY\Desktop\VAK_TEST\bin\Debug\net6.0\VAK_TEST.pdb
+C:\Users\PC NOHAMY\Desktop\VAK_TEST\obj\Debug\net6.0\VAK_TEST.csproj.AssemblyReference.cache
+C:\Users\PC NOHAMY\Desktop\VAK_TEST\obj\Debug\net6.0\VAK_TEST.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC NOHAMY\Desktop\VAK_TEST\obj\Debug\net6.0\VAK_TEST.AssemblyInfoInputs.cache
+C:\Users\PC NOHAMY\Desktop\VAK_TEST\obj\Debug\net6.0\VAK_TEST.AssemblyInfo.cs
+C:\Users\PC NOHAMY\Desktop\VAK_TEST\obj\Debug\net6.0\VAK_TEST.csproj.CoreCompileInputs.cache
+C:\Users\PC NOHAMY\Desktop\VAK_TEST\obj\Debug\net6.0\VAK_TEST.dll
+C:\Users\PC NOHAMY\Desktop\VAK_TEST\obj\Debug\net6.0\refint\VAK_TEST.dll
+C:\Users\PC NOHAMY\Desktop\VAK_TEST\obj\Debug\net6.0\VAK_TEST.pdb
+C:\Users\PC NOHAMY\Desktop\VAK_TEST\obj\Debug\net6.0\VAK_TEST.genruntimeconfig.cache
+C:\Users\PC NOHAMY\Desktop\VAK_TEST\obj\Debug\net6.0\ref\VAK_TEST.dll
+D:\UNAN Managua\1er y 2do año\CorteEvaluativoII_Golden Boys_Grupo 3\VAK_TEST\bin\Debug\net6.0\VAK_TEST.exe
+D:\UNAN Managua\1er y 2do año\CorteEvaluativoII_Golden Boys_Grupo 3\VAK_TEST\bin\Debug\net6.0\VAK_TEST.deps.json
+D:\UNAN Managua\1er y 2do año\CorteEvaluativoII_Golden Boys_Grupo 3\VAK_TEST\bin\Debug\net6.0\VAK_TEST.runtimeconfig.json
+D:\UNAN Managua\1er y 2do año\CorteEvaluativoII_Golden Boys_Grupo 3\VAK_TEST\bin\Debug\net6.0\VAK_TEST.dll
+D:\UNAN Managua\1er y 2do año\CorteEvaluativoII_Golden Boys_Grupo 3\VAK_TEST\bin\Debug\net6.0\VAK_TEST.pdb
+D:\UNAN Managua\1er y 2do año\CorteEvaluativoII_Golden Boys_Grupo 3\VAK_TEST\obj\Debug\net6.0\VAK_TEST.GeneratedMSBuildEditorConfig.editorconfig
+D:\UNAN Managua\1er y 2do año\CorteEvaluativoII_Golden Boys_Grupo 3\VAK_TEST\obj\Debug\net6.0\VAK_TEST.AssemblyInfoInputs.cache
+D:\UNAN Managua\1er y 2do año\CorteEvaluativoII_Golden Boys_Grupo 3\VAK_TEST\obj\Debug\net6.0\VAK_TEST.AssemblyInfo.cs
+D:\UNAN Managua\1er y 2do año\CorteEvaluativoII_Golden Boys_Grupo 3\VAK_TEST\obj\Debug\net6.0\VAK_TEST.csproj.CoreCompileInputs.cache
+D:\UNAN Managua\1er y 2do año\CorteEvaluativoII_Golden Boys_Grupo 3\VAK_TEST\obj\Debug\net6.0\VAK_TEST.dll
+D:\UNAN Managua\1er y 2do año\CorteEvaluativoII_Golden Boys_Grupo 3\VAK_TEST\obj\Debug\net6.0\refint\VAK_TEST.dll
+D:\UNAN Managua\1er y 2do año\CorteEvaluativoII_Golden Boys_Grupo 3\VAK_TEST\obj\Debug\net6.0\VAK_TEST.pdb
+D:\UNAN Managua\1er y 2do año\CorteEvaluativoII_Golden Boys_Grupo 3\VAK_TEST\obj\Debug\net6.0\VAK_TEST.genruntimeconfig.cache
+D:\UNAN Managua\1er y 2do año\CorteEvaluativoII_Golden Boys_Grupo 3\VAK_TEST\obj\Debug\net6.0\ref\VAK_TEST.dll
