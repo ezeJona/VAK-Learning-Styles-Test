@@ -39,15 +39,11 @@ Al finalizar el test, el programa calcula las puntuaciones para cada estilo de a
     ```bash
     git clone https://github.com/tu-usuario/nombre-del-repositorio.git
     ```
-    (Asegúrate de reemplazar `tu-usuario/nombre-del-repositorio` con la ruta real de tu repositorio en GitHub).
 2.  **Navega al directorio del proyecto:**
     ```bash
-    cd Test---Estilo-de-Aprendizaje---VAK
+    cd VAK-Learning-Styles-Test
     ```
-3.  **Restaura las dependencias:**
-    ```bash
-    dotnet restore
-    ```
+
 4.  **Ejecuta la aplicación:**
     ```bash
     dotnet run
@@ -65,9 +61,7 @@ El corazón del programa reside en la clase `Program.cs`, que contiene el métod
   * **Cálculo y Presentación de Resultados:** Determina el estilo dominante y muestra una tabla resumen.
   * **Manejo de Errores:** Un bloque `try-catch` general para capturar excepciones inesperadas.
 
-### Clase `Animación` (Supuesta)
-
-Aunque el código de la clase `Animación` no está incluido en este `README`, es fundamental para las funcionalidades interactivas de la consola. Se espera que contenga métodos como:
+### Clase `Animación` 
 
   * `parpadeo(string texto, int veces)`: Para efectos visuales de texto parpadeante.
   * `PresioneEnter()`: Para pausar la ejecución hasta que se presione Enter.
@@ -76,26 +70,7 @@ Aunque el código de la clase `Animación` no está incluido en este `README`, e
 
 -----
 
-## 🤝 Contribuciones
-
-¡Las contribuciones son bienvenidas\! Si tienes ideas para mejorar el test, añadir más preguntas, refactorizar el código o mejorar la interfaz, no dudes en:
-
-1.  Hacer un `fork` del repositorio.
-2.  Crear una nueva rama (`git checkout -b feature/nueva-caracteristica`).
-3.  Realizar tus cambios y hacer `commit` (`git commit -am 'Agrega nueva característica'`).
-4.  Subir tus cambios (`git push origin feature/nueva-caracteristica`).
-5.  Abrir un `Pull Request`.
-
------
-
-## 📄 Licencia
-
-Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE](https://www.google.com/search?q=LICENSE) para más detalles.
-
------
-
 ## 📞 Contacto
 
-Si tienes alguna pregunta o sugerencia, no dudes en contactarme abriendo un `issue` en este repositorio.
 
 -----
