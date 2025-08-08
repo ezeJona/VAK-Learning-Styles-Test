@@ -37,7 +37,7 @@ Al finalizar el test, el programa calcula las puntuaciones para cada estilo de a
 
 1.  **Clona el repositorio:**
     ```bash
-    git clone https://github.com/tu-usuario/nombre-del-repositorio.git
+    
     ```
 2.  **Navega al directorio del proyecto:**
     ```bash
