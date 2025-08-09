@@ -37,7 +37,7 @@ Al finalizar el test, el programa calcula las puntuaciones para cada estilo de a
 
 1.  **Clona el repositorio:**
     ```bash
-    
+    https://github.com/ezeJona/VAK-Learning-Styles-Test.git
     ```
 2.  **Navega al directorio del proyecto:**
     ```bash
