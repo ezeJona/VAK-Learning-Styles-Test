@@ -68,7 +68,7 @@ El corazón del programa reside en la clase `Program.cs`, que contiene el métod
   * `PresioneColor()`: Para esperar una pulsación de tecla, posiblemente con un cambio de color de texto.
   * `Typing(string texto, int delay)`: Para simular el efecto de escritura en la consola.
 
------
+------
 
 ## 📞 Contacto
 
