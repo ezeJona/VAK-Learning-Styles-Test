@@ -49,7 +49,7 @@ Al finalizar el test, el programa calcula las puntuaciones para cada estilo de a
     dotnet run
     ```
 
------
+------
 
 ## 🛠️ Estructura del Código
 
