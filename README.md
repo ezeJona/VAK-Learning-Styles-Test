@@ -3,7 +3,7 @@
 
 -----
 
-## 📚 Descripción del Proyecto   
+## 📚 Descripción del Proyecto
 
 Este proyecto es una aplicación de consola en C\# que implementa un **test interactivo para determinar el estilo de aprendizaje dominante** de un usuario, basado en el **modelo VAK (Visual, Auditivo, Kinestésico)**. Inspirado en la Programación Neurolingüística (PNL), el test busca identificar las vías preferentes de entrada, procesamiento y salida de la información de cada individuo, facilitando una mejor comprensión de cómo aprenden.
 
