@@ -11,7 +11,7 @@ La aplicación ofrece tres modalidades de prueba diferentes:
   
 1.  **Selección Única:** El usuario elige una opción de respuesta (A, B, o C) para cada pregunta. 
 2.  **Selección Múltiple:** El usuario asigna un puntaje (1, 2 o 3) a cada opción de respuesta, indicando su nivel de preferencia. 
-3.  **Completar:** El usuario debe escribir la palabra o frase correcta para completar un enunciado. 
+3.  **Completar:** El usuario debe escribir la palabra o frase correcta para completar un enunciado.   
    
 Al finalizar el test, el programa calcula las puntuaciones para cada estilo de aprendizaje y presenta un resumen claro, indicando el estilo dominante o la combinación de estilos. 
 
