@@ -1,7 +1,7 @@
    
 # Test de Estilos de Aprendizaje VAK
 
------
+-----  
 
 ## 📚 Descripción del Proyecto 
 
